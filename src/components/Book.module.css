@@ -1,0 +1,25 @@
+.container{
+width:auto;
+display: inline-grid;
+justify-content: center;
+margin:15px auto;
+margin-left:10px;
+background-color: beige;
+object-position: center;
+}
+
+.image{
+    width:50%;
+    object-fit: cover;
+
+}
+
+.auth{
+    margin-top:0;
+    font-style: italic;
+    padding: 0;
+}
+.title{
+    margin-bottom: 0;
+    padding: 0;
+}
